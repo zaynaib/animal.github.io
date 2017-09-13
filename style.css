@@ -1,0 +1,26 @@
+h1{
+	text-align:center;
+	color:white;
+	background-image:url("https://www.polyvore.com/cgi/img-thing?.out=jpg&size=l&tid=10973640");
+
+}
+
+h2{
+	font-family: 'Indie Flower', cursive;
+
+}
+img{
+	float:left;
+	margin-right:30px;
+}
+
+span{
+	font-weight:bold;
+	font-size:90px;
+}
+
+#wrapper{
+	width:960px;
+	padding-left:25px;
+
+}
