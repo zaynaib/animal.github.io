@@ -1,9 +1,9 @@
-#Animal web page
+# Animal web page
 
-##About
+## About
 This is Lisa Frank inspired webpage that gives information about Zebras. 
 The web page was created using only HTML and CSS.
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Screenshot of Zebra Webpage](https://github.com/zaynaib/animal.github.io/blob/master/zebra.JPG?raw=true)
 
-https://zaynaib.github.io/animal.github.io/
+[Link to Zebra Webpage](https://zaynaib.github.io/animal.github.io/)
